@@ -8,17 +8,17 @@ Based in **Tunisia**
 [![X](https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Natty_coder)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
 
-I work across the Microsoft security ecosystem, helping organizations safeguard their Microsoft 365 environments. My work covers identity, endpoints, email and collaboration, cloud applications, and data, with a focus on Microsoft Entra ID, Defender XDR, Intune, Purview, and Microsoft 365.
+I work across the **Microsoft security ecosystem**, helping organizations **safeguard their Microsoft 365 environments**. My work covers **identity, endpoints, email and collaboration, cloud applications, and data**, with a focus on Microsoft Entra ID, Defender XDR, Intune, Purview, and Microsoft 365.
 
 Alongside security delivery, I contribute to presales and enjoy turning recurring problems into practical tools with PowerShell and Microsoft Graph. I am still early in my career, always learning, and happy to experiment beyond security when something catches my interest.
 
-- 🔐 Working across the Microsoft 365 security stack
-- 🛠️ Building open-source security tools with PowerShell and Microsoft Graph
-- 🤝 Contributing to technical delivery and presales engagements
-- 👨‍🏫 Privileged to have mentored 9 interns
-- 🏠 Into homelabbing, self-hosting, and learning by building
-- ✍️ Occasionally writing about projects and lessons learned on my [blog](https://0xdarknighthacks.ayedialaa.org/)
-- 🌱 Looking for opportunities to contribute to existing open-source projects
+- Working across the **Microsoft 365 security stack**
+- Building open-source **security tools with PowerShell and Microsoft Graph**
+- Contributing to **technical delivery and presales engagements**
+- Privileged to have **mentored 9 interns**
+- Into **homelabbing, self-hosting, and learning by building**
+- Occasionally writing about projects and lessons learned on my **[blog](https://0xdarknighthacks.ayedialaa.org/)**
+- **Looking for opportunities to contribute to existing open-source projects**
 
 ---
 
