@@ -1,114 +1,78 @@
-# Hey, I'm Alaa Eddine Ayedi 👋
+# Hi, I'm Alaa Eddine Ayedi 👋
 
-### Microsoft Security Consultant | Builder | Homelabber
+### Microsoft Security Consultant · Tool Builder · Homelab Enthusiast
 
-I work in the Microsoft ecosystem, helping organizations secure and manage their Microsoft 365 environments.
+[![Blog](https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge&logo=jekyll&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
+[![X](https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Natty_coder)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
 
-My day-to-day work spans identity, endpoint, email & collaboration, SaaS applications, data protection, and cloud security using technologies such as Microsoft Entra ID, Defender XDR, Intune, Purview, and Microsoft 365.
+I work across the Microsoft security ecosystem, helping organizations safeguard their Microsoft 365 environments. My work covers identity, endpoints, email and collaboration, cloud applications, and data, with a focus on Microsoft Entra ID, Defender XDR, Intune, Purview, and Microsoft 365.
 
-While security is my primary focus, I enjoy building tools, automating tasks with PowerShell and Microsoft Graph, running homelabs, self-hosting services, and occasionally sharing my findings through technical blog posts.
+Alongside security delivery, I contribute to presales and enjoy turning recurring problems into practical tools with PowerShell and Microsoft Graph. I am still early in my career, always learning, and happy to experiment beyond security when something catches my interest.
 
----
-
-## 🚀 About Me
-
-- 🔐 Microsoft Security Consultant focused on the Microsoft 365 security stack
-- 🏢 Started my journey as an intern and grew into a consulting role
-- 🤝 Contribute to both technical delivery and presales activities
-- 🛠️ Passionate about PowerShell, Microsoft Graph, automation, and tooling
-- 🌱 Always learning and exploring new technologies
-- 🏠 Homelab enthusiast and self-hosting enjoyer
-- 👨‍🏫 Had the opportunity to mentor 9 interns throughout my journey
-- 📖 Occasionally write about interesting findings, projects, and lessons learned
+- 🔐 Working across the Microsoft 365 security stack
+- 🛠️ Building open-source security tools with PowerShell and Microsoft Graph
+- 🤝 Contributing to technical delivery and presales engagements
+- 👨‍🏫 Privileged to have mentored 9 interns
+- 🏠 Into homelabbing, self-hosting, and learning by building
+- ✍️ Occasionally writing about projects and lessons learned on my [blog](https://0xdarknighthacks.ayedialaa.org/)
+- 🌱 Looking for opportunities to contribute to existing open-source projects
 
 ---
 
-## 🧰 Technologies & Platforms
+## Areas I Work In
 
-### Security
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+My work typically spans:
 
-### Development & Automation
-
-https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
----
-
-## 🔥 Featured Projects
-
-### Microsoft 365 Security Assessment Platform
-A security assessment and orchestration platform that combines multiple open-source and custom-built assessment engines to evaluate Microsoft 365 security posture.
-
-🔗 Repository: *Coming soon*
+- Identity and access security
+- Endpoint security and management
+- Email and collaboration security
+- SaaS and cloud application security
+- Data security, governance, and compliance
+- Security assessments, automation, and orchestration
 
 ---
+
+## What I'm Building
 
 ### Entra Object Inspector
-A tool designed to simplify analysis and inspection of Entra ID objects and configurations.
 
-🔗 Repository: [Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector.git)
+A focused tool for inspecting Microsoft Entra objects and surfacing the details that matter during investigation and assessment work.
 
----
+**Repository:** [Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector.git)
 
 ### OAuth & Application Identity Exposure Analyzer
-Focused on identifying and understanding OAuth and application identity risks inside Microsoft environments.
 
-🔗 Repository: *Coming soon*
+A tool for analyzing OAuth applications and application identities, with an emphasis on permissions, exposure, and security-relevant relationships.
 
----
+**Repository:** Coming soon
 
-## 📝 Latest Interests
-
-Currently exploring:
-
-- Application identities and workload identities
-- OAuth security
-- Microsoft Graph security use cases
-- Detection engineering in Microsoft Defender XDR
-- Identity governance and privileged access
-- Open-source security tooling
-- Self-hosting and homelab projects
+I am also developing a broader Microsoft 365 security assessment platform that orchestrates multiple external and custom-built assessment engines.
 
 ---
 
-## 📚 Writing
+## Beyond the Day Job
 
-I occasionally write about security research, Microsoft technologies, lessons learned, and projects.
+Security is where I spend most of my time, but I do not limit myself to one path. I enjoy experimenting with self-hosted services, maintaining a homelab, and working on projects that are useful, interesting, or simply teach me something new.
 
-🌐 Blog: https://0xdarknighthacks.ayedialaa.org
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=0xDarknightHacks&show_icons=true&theme=transparent
-</p>
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=0xDarknightHacks&layout=compact&theme=transparent
-</p>
+When I have something worth sharing, I write about it at [0xDarknightHacks](https://0xdarknighthacks.ayedialaa.org/).
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alaaeddineayedi/)
+If you are working on Microsoft security, PowerShell, Microsoft Graph, or an open-source project where I may be able to help, feel free to reach out.
 
-https://img.shields.io/badge/Blog-0xDarknightHacks-black?style=for-the-badge](https://0xdarknighthacks.ayedialaa.org)
-
-https://img.shields.io/badge/X-@Natty__coder-black?style=for-the-badge&logo=x](https://x.com/Natty_coder)
-
-https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=for-the-badge&logo=microsoft](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
-
----
-
-> Building, learning, breaking things, fixing them, and sharing the journey.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
+[![Blog](https://img.shields.io/badge/Blog-Read-111111?style=flat-square&logo=jekyll&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Natty_coder)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
