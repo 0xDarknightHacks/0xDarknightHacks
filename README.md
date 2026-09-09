@@ -1,4 +1,4 @@
-# Hi, I'm Alaa Eddine Ayedi 👋
+# Hi, I'm Alaa Eddine Ayedi !
 
 ### Microsoft Security Consultant · Tool Builder · Homelab Enthusiast
 
