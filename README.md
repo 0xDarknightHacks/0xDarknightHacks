@@ -1,6 +1,7 @@
 # Hi, I'm Alaa Eddine Ayedi !
 
-### Microsoft Security Consultant · Tool Builder · Homelab Enthusiast
+### Microsoft Security Consultant 
+Based in **Tunisia**
 
 [![Blog](https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge&logo=jekyll&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
