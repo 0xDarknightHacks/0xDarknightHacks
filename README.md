@@ -7,6 +7,7 @@ Based in **Tunisia**
 [![Blog](https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge\&logo=jekyll\&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
 [![X](https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Natty_coder)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@0xDarknightHacks-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/0xdarknighthacks.bsky.social)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
 
 I work across the **Microsoft security ecosystem**, helping organizations secure their Microsoft 365 environments across **identity, endpoints, email, applications, and data**.
@@ -66,4 +67,5 @@ If you are working on Microsoft security, PowerShell, Microsoft Graph, or open s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
 [![Blog](https://img.shields.io/badge/Blog-Read-111111?style=flat-square\&logo=jekyll\&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/Natty_coder)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/0xdarknighthacks.bsky.social)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=flat-square\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
