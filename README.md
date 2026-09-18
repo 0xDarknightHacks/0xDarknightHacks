@@ -10,7 +10,7 @@ Based in **Tunisia**
 [![Bluesky](https://img.shields.io/badge/Bluesky-@0xDarknightHacks-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/0xdarknighthacks.bsky.social)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
 
-![Profile Banner](./assets/profile-banner.jpg)
+![Profile Banner](./Assets/profile-banner.jpg)
 
 I work across the **Microsoft security ecosystem**, helping organizations secure their Microsoft 365 environments across **identity, endpoints, email, applications, and data**.
 
