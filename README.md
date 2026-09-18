@@ -10,6 +10,8 @@ Based in **Tunisia**
 [![Bluesky](https://img.shields.io/badge/Bluesky-@0xDarknightHacks-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/0xdarknighthacks.bsky.social)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
 
+<p align="center"> <div class="tenor-gif-embed" data-postid="12537728247115118999" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/batman-caped-crusader-caped-crusader-batman-batman-pose-gif-12537728247115118999">Batman Caped Crusader Batman Pose GIF</a>from <a href="https://tenor.com/search/batman+caped+crusader-gifs">Batman Caped Crusader GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> </p>
+
 I work across the **Microsoft security ecosystem**, helping organizations secure their Microsoft 365 environments across **identity, endpoints, email, applications, and data**.
 
 Alongside security delivery and presales, I enjoy turning recurring problems into focused open-source tools with **PowerShell and Microsoft Graph**.
