@@ -45,10 +45,11 @@ Alongside security delivery and presales, I enjoy turning recurring problems int
 
 ## Open-Source Projects
 
-| Project                                                                                | What it does                                                                                                                           |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **[EntraTopology](https://github.com/0xDarknightHacks/EntraTopology)**                 | Read-only Entra inventory and topology engine for mapping relationships, exploring tenant state, and monitoring changes.               |
-| **[Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector)** | Evidence-driven Entra identity inspection for correlating relationships, permissions, ownership, privilege, PIM, and security context. |
+| Project                                                                                | What it solves                                                                                                                                                    | Stars |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **[EntraTopology](https://github.com/0xDarknightHacks/EntraTopology)**                 | See how users, groups, applications, service principals, devices, and roles are connected in one interactive view, and track what changes over time.              | ⭐ 2   |
+| **[Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector)** | Inspect an Entra user, group, application, or service principal and see its permissions, ownership, memberships, roles, PIM, and related identities in one place. | ⭐ 2   |
+| **[Entra App Exposure](https://github.com/0xDarknightHacks/EntraAppExposure)**         | Find Entra applications that need review by bringing permissions, consent, ownership, credentials, configuration, and activity together.                          | ⭐ 2   |
 
 I prefer building **narrow, focused tools for specific tasks**, while keeping their scripts and modules reusable across other projects.
 
