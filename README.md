@@ -3,12 +3,11 @@
 ### Microsoft Security Consultant
 
 Based in **Tunisia**
-
+<p align="center">
 [![Blog](https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge\&logo=jekyll\&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
 [![X](https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Natty_coder)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@0xDarknightHacks-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/0xdarknighthacks.bsky.social)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/alaaeddineayedi-0426/)
+</p>
 
 <p align="center">
   <img src="./Assets/profile-banner.jpg" alt="Profile Banner" width="800">
