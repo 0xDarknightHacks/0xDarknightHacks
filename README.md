@@ -3,10 +3,17 @@
 ### Microsoft Security Consultant
 
 Based in **Tunisia**
+
 <p align="center">
-[![Blog](https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge\&logo=jekyll\&logoColor=white)](https://0xdarknighthacks.ayedialaa.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaaeddineayedi/)
-[![X](https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Natty_coder)
+  <a href="https://0xdarknighthacks.ayedialaa.org/">
+    <img src="https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://www.linkedin.com/in/alaaeddineayedi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Eddine%20Ayedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Natty_coder">
+    <img src="https://img.shields.io/badge/X-@Natty__coder-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
 </p>
 
 <p align="center">
