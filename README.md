@@ -59,6 +59,7 @@ Alongside security delivery and presales, I enjoy turning recurring problems int
 | **[EntraTopology](https://github.com/0xDarknightHacks/EntraTopology)**                 | See how users, groups, applications, service principals, devices, and roles are connected in one interactive view, and track what changes over time.              |  ⭐ 2  |
 | **[Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector)** | Inspect an Entra user, group, application, or service principal and see its permissions, ownership, memberships, roles, PIM, and related identities in one place. |  ⭐ 2  |
 | **[Entra App Exposure](https://github.com/0xDarknightHacks/EntraAppExposure)**         | Find Entra applications that need review by bringing permissions, consent, ownership, credentials, configuration, and activity together.                          |  ⭐ 2  |
+| **[Monkey365 Fork](https://github.com/0xDarknightHacks/monkey365)**         | An optimized fork of the official Monkey365 v1.0.0 release, an open-source security assessment tool for Microsoft 365, Azure, and Microsoft Entra ID.                         |  ⭐ 2  |
 
 I prefer building **narrow, focused tools for specific tasks**, while keeping their scripts and modules reusable across other projects.
 
