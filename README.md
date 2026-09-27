@@ -1,8 +1,6 @@
 # Hi, I'm Alaa Eddine Ayedi!
 
-<p align="center">
-  <h3>Microsoft Security Consultant</h3>
-</p>
+<h3 align="center">Microsoft Security Consultant</h3>
 
 <p align="center">
   <img src="./Assets/profile-banner.jpg" alt="Alaa Eddine Ayedi — Microsoft Security Consultant" width="800">
