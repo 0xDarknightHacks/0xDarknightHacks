@@ -2,8 +2,6 @@
 
 ### Microsoft Security Consultant
 
-Based in **Tunisia**
-
 <p align="center">
   <img src="./Assets/profile-banner.jpg" alt="Alaa Eddine Ayedi — Microsoft Security Consultant" width="800">
 </p>
