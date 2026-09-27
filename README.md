@@ -61,8 +61,6 @@ Alongside security delivery and presales, I enjoy turning recurring problems int
 | **[Entra App Exposure](https://github.com/0xDarknightHacks/EntraAppExposure)**         | Find Entra applications that need review by bringing permissions, consent, ownership, credentials, configuration, and activity together.                          |  ⭐ 2  |
 | **[Monkey365 Fork](https://github.com/0xDarknightHacks/monkey365)**         | An optimized fork of the official Monkey365 v1.0.0 release, an open-source security assessment tool for Microsoft 365, Azure, and Microsoft Entra ID.                         |  ⭐ 2  |
 
-I prefer building **narrow, focused tools for specific tasks**, while keeping their scripts and modules reusable across other projects.
-
 ---
 
 ## Beyond the Day Job
