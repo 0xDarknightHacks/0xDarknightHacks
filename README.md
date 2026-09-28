@@ -3,6 +3,12 @@
 <h3 align="center">Microsoft Security Consultant</h3>
 
 <p align="center">
+  <img src="./Assets/Who-Am-I.gif"
+       alt="0xDarknightHacks PowerShell identity inspection"
+       width="900">
+</p>
+
+<p align="center">
   <img src="./Assets/profile-banner.jpg" alt="Alaa Eddine Ayedi — Microsoft Security Consultant" width="800">
 </p>
 
