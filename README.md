@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="./Assets/profile-banner.jpg" alt="Alaa Eddine Ayedi — Microsoft Security Consultant" width="800">
-</p>
-
-<p align="center">
   <a href="https://0xdarknighthacks.ayedialaa.org/">
     <img src="https://img.shields.io/badge/Blog-0xDarknightHacks-111111?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog">
   </a>
@@ -77,6 +73,10 @@ I enjoy **homelabbing, self-hosting, and learning by building**. When I have som
 ## Connect
 
 If you're working on Microsoft security, PowerShell, Microsoft Graph, or open source, feel free to reach out.
+
+<p align="center">
+  <img src="./Assets/profile-banner.jpg" alt="Alaa Eddine Ayedi — Microsoft Security Consultant" width="800">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alaaeddineayedi/">
