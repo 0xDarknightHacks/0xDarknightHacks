@@ -56,10 +56,9 @@ Alongside security delivery and presales, I enjoy turning recurring problems int
 
 | Project                                                                                | What it solves                                                                                                                                                    | Stars |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
-| **[EntraTopology](https://github.com/0xDarknightHacks/EntraTopology)**                 | See how users, groups, applications, service principals, devices, and roles are connected in one interactive view, and track what changes over time.              |  ⭐ 2  |
-| **[Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector)** | Inspect an Entra user, group, application, or service principal and see its permissions, ownership, memberships, roles, PIM, and related identities in one place. |  ⭐ 2  |
-| **[Entra App Exposure](https://github.com/0xDarknightHacks/EntraAppExposure)**         | Find Entra applications that need review by bringing permissions, consent, ownership, credentials, configuration, and activity together.                          |  ⭐ 2  |
-| **[Monkey365 Fork](https://github.com/0xDarknightHacks/monkey365)**         | An optimized fork of the official Monkey365 v1.0.0 release, an open-source security assessment tool for Microsoft 365, Azure, and Microsoft Entra ID.                         |  ⭐ 2  |
+| **[EntraTopology](https://github.com/0xDarknightHacks/EntraTopology)**                 | Tenant: See how users, groups, applications, service principals, devices and roles connect — and what changes over time.              |  ⭐ 2  |
+| **[Entra Object Inspector](https://github.com/0xDarknightHacks/EntraObjectInspector)** | Object: Start with one user, group, application or service principal and bring its permissions, ownership, memberships, roles, PIM and related identities together. |  ⭐ 2  |
+| **[Entra App Exposure](https://github.com/0xDarknightHacks/EntraAppExposure)**         | Application: Find applications worth investigating by looking at permissions, consent, ownership, credentials, configuration and activity together.                          |  ⭐ 2  |
 
 ---
 
